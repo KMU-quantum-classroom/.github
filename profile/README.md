@@ -1,12 +1,23 @@
-## Hi there 👋
+# KMU-quantum-classroom
 
-<!--
+## Introduction
 
-**Here are some ideas to get you started:**
+* qiskit-classroom
+  * GUI Application for converter CLI
+* qiskit-classroom-converter
+  * converter CLI toolkit
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Install
+
+* qiskit-classroom-converter
+
+```bash
+pip install qiskit-classroom-converter
+```
+
+Alternative installation with docker image
+
+```shell
+docker pull ghcr.io/kmu-quantum-classroom/qiskit-classroom-converter
+docker run -p 8888:8888 ghcr.io/kmu-quantum-classroom/qiskit-classroom-converter
+```
