@@ -3,9 +3,9 @@
 ## Introduction
 
 * qiskit-classroom
-  * GUI Application for converter CLI
+  * GUI Application for converter Python Package
 * qiskit-classroom-converter
-  * converter CLI toolkit
+  * converter Python Package
 
 ## Install
 
@@ -15,7 +15,7 @@
 pip install qiskit-classroom-converter
 ```
 
-Alternative installation with docker image
+Alternative installation with Jupyter Notebook docker image
 
 ```shell
 docker pull ghcr.io/kmu-quantum-classroom/qiskit-classroom-converter
