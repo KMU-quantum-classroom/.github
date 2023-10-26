@@ -4,7 +4,7 @@
 
 https://kmu-quantum-classroom.github.io
 
-## Offical USER Guide
+## Official USER Guide
 
 https://kmu-quantum-classroom.github.io/documents/overview.html
 
